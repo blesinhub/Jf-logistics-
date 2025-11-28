@@ -9,7 +9,7 @@ am blessing chi
   </div>
   <div class="flowers">🌹🌷🌺</div>
 </div>
-# 👋 Hi there, I'm Blessing!
+#👋 Hi there, I'm Blessing!
 
 ### 🌍 Web Developer | 💻 Tech Enthusiast | 🎨 Creative Mind
 
